@@ -29,3 +29,5 @@ $~~~~~~~~~~~~~~~~~~~~~~$ *Write questions one by one so that the bot can fully a
 $~~~~~~~~~~~~~~~~~~~~~~$ *If it doesn't respond or its answers don't satisfy you, try re-write the question*
 
 <hr>
+
+## Impacts on your learning:
