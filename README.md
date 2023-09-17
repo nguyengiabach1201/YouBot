@@ -8,4 +8,6 @@
 *Reading the passage and finding the answers to all of your questions!*
 
 ## Description
-YouBot is designed to help you with the boring reading task. 
+With the Bert model designed by Google, we created YouBot. Which is designed to help students with the boring reading tasks. Just with Ctrl+C and Ctrl+V, all the challenging questions are solved within seconds!
+
+## Tutorial for Use and Best Practices
