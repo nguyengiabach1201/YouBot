@@ -7,8 +7,12 @@
 ## Doing work with you
 *Reading the passage and finding the answers to all of your questions!*
 
+<hr>
+
 ## Description
 *With the Bert model designed by Google, we created YouBot. Which is designed to help students with the boring reading tasks. Just with Ctrl+C and Ctrl+V, all the challenging questions are solved within seconds!*
+
+<hr>
 
 ## Tutorial for Use and Best Practices
 ### 1. Provide information
@@ -23,3 +27,5 @@ $~~~~~~~~~~~~~~~~~~~~~~$ *Write them clearly, and grammatically correctly so the
 $~~~~~~~~~~~~~~~~~~~~~~$ *Write questions one by one so that the bot can fully and correctly answer all of them*
 
 $~~~~~~~~~~~~~~~~~~~~~~$ *If it doesn't respond or its answers don't satisfy you, try re-write the question*
+
+<hr>
