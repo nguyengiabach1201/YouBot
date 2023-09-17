@@ -1,0 +1,23 @@
+.hlta-container {
+    position: relative;
+}
+
+.hlta-backdrop {
+    position: absolute;
+    overflow: hidden;
+    border-color: transparent;
+}
+
+.hlta-highlight {
+    background: FFDAE2AA;
+    color: transparent; 
+}
+
+.hlta-container > .htla-textarea {
+    position: relative;
+    background: none transparent !important;
+}
+
+.hlta-highlight mark {
+    background-color: #bbb7ff;
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link href="./highlighter/texthighlighter.css" rel="stylesheet">
+    <script src="./highlighter/texthighlighter.js"></script>
+</head>
+<body style="margin: 0; height: 100vh; display: flex; align-items: center; justify-content: center;">
+    <!-- Load TensorFlow.js. This is required to use the qna model. -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"> </script>
+    <!-- Load the qna model. -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/qna"> </script>
+    
+
+    <div>
+        <div>
+            <input type="text" id="question" placeholder="Enter Your Question!">
+            <button id="submit" onclick="answers()">Submit</button>            
+        </div>
+        <textarea id="passage" style="resize: none; width: calc(100vw - 20px); height: calc(100vh - 50px);"></textarea> 
+    </div>
+    <script src="main.js"></script>
+
+</body>
+</html>
