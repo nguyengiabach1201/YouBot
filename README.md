@@ -20,6 +20,6 @@
 
 #### $~~~~~~~~~~~$ b. Best practices: 
 
-#### $~~~~~~~~~~~~~~~~~~~~~~$ *Write questions one by one so that the bot can fully and correctly answer all of them*
+$~~~~~~~~~~~~~~~~~~~~~~$ *Write questions one by one so that the bot can fully and correctly answer all of them*
 
-#### $~~~~~~~~~~~~~~~~~~~~~~$ *If it doesn't respond or its answers don't satisfy you, try re-write the question*
+$~~~~~~~~~~~~~~~~~~~~~~$ *If it doesn't respond or its answers don't satisfy you, try re-write the question*
