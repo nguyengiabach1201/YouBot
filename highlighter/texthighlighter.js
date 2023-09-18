@@ -69,7 +69,8 @@ class textHighlight {
 
     #resizeObs() {
         let styles = window.getComputedStyle(this.ele);
-        let width = this.ele.scrollWidth; console.log(this.ele.offsetWidth, ', ', this.ele.scrollWidth)
+        let width = this.ele.scrollWidth; 
+        // console.log(this.ele.offsetWidth, ', ', this.ele.scrollWidth)
         let height = this.ele.offsetHeight;
 
         let css = `width: ${width}px; height: ${height}px; margin: ${styles.marginTop} ${styles.marginRight} ${styles.marginBottom} ${styles.marginLeft}; 
