@@ -6,7 +6,7 @@
 
 <hr>
 
-## Doing work with you
+## Doing Work With You
 *Reading the passage and finding the answers to all of your questions!*
 
 <hr>
@@ -16,20 +16,22 @@
 
 <hr>
 
-## Tutorial for Use and Best Practices
-### 1. Provide information
-#### $~~~~~~~~~~~$ a. Type in or paste in your passages
-#### $~~~~~~~~~~~$ b. Best practices: 
+## Tutorial For Use And Best Practices
+### 1. Provide Information
+#### $~~~~~~~~~~~$ a. Type In Or Paste In Your Passages
+#### $~~~~~~~~~~~$ b. Best Practices: 
 $~~~~~~~~~~~~~~~~~~~~~~$ *Write them clearly, and grammatically correctly so the AI model can easily provide answers for you!*
 
-### 2. Asking questions and waiting for the response
-#### $~~~~~~~~~~~$ a. Write down your questions and hit submit
+### 2. Asking Questions And Waiting For The Response
+#### $~~~~~~~~~~~$ a. Write Down Your Questions And Hit Submit
 
-#### $~~~~~~~~~~~$ b. Best practices: 
+#### $~~~~~~~~~~~$ b. Best Practices: 
 $~~~~~~~~~~~~~~~~~~~~~~$ *Write questions one by one so that the bot can fully and correctly answer all of them*
 
 $~~~~~~~~~~~~~~~~~~~~~~$ *If it doesn't respond or its answers don't satisfy you, try re-write the question*
 
 <hr>
 
-## Impacts on your learning:
+## Impacts On Learning:
+### Positive Impacts:
+### Limitations:
