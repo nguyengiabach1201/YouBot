@@ -33,9 +33,11 @@ $~~~~~~~~~~~~~~~~~~~~~~$ *If it doesn't respond or its answers don't satisfy you
 <hr>
 
 ## Impacts On Learning
-### Positive Impacts:
-### Limitations:
+### Positive Impacts: **
+### Limitations: **
 
 <hr/>
 
 ## Ethical Considerations
+
+**
