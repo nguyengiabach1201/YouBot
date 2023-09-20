@@ -22,8 +22,8 @@ $~~~~~~~~~~~~~~~~~~~~~~$ *Write them clearly, and grammatically correctly so the
 
 ### 2. Asking Questions And Waiting For The Response
 #### $~~~~~~~~~~~$ a. Write Down Your Questions And Hit Submit
-
-#### $~~~~~~~~~~~$ b. Best Practices: 
+#### $~~~~~~~~~~~$ b. Wait And YouBot will answer your questions
+#### $~~~~~~~~~~~$ c. Best Practices: 
 $~~~~~~~~~~~~~~~~~~~~~~$ *Write questions one by one so that the bot can fully and correctly answer all of them*
 
 $~~~~~~~~~~~~~~~~~~~~~~$ *If it doesn't respond or its answers don't satisfy you, try re-write the question*
