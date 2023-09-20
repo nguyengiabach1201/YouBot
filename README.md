@@ -6,7 +6,7 @@
 
 <hr>
 
-## Doing Work With You
+## Your Learning Friend
 *Reading the passage and finding the answers to all of your questions!*
 
 <hr>
