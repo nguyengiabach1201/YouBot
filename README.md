@@ -33,8 +33,10 @@ $~~~~~~~~~~~~~~~~~~~~~~$ *If it doesn't respond or its answers don't satisfy you
 <hr>
 
 ## Impacts On Learning
-### Positive Impacts: *This AI can result in a deeper understanding of the English reading task!*
-### Limitations: *Now, it only supports English, which may limit learning for non-English speakers! It might provide inaccurate information, or it can't understand and answer hard questions!*
+
+**Positive Impacts**: *This AI can result in a deeper understanding of the English reading task!*
+
+**Limitations**: *Now, it only supports English, which may limit learning for non-English speakers! It might provide inaccurate information, or it can't understand and answer hard questions!*
 
 <hr/>
 
