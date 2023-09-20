@@ -34,10 +34,10 @@ $~~~~~~~~~~~~~~~~~~~~~~$ *If it doesn't respond or its answers don't satisfy you
 
 ## Impacts On Learning
 ### Positive Impacts: *This AI can result in a deeper understanding of the English reading task!*
-### Limitations: *Now, it only supports English, which may limit learning for non-English speaker!*
+### Limitations: *Now, it only supports English, which may limit learning for non-English speakers! It might provide inaccurate information, or it can't understand and answer hard questions!*
 
 <hr/>
 
 ## Ethical Considerations
 
-**
+*Bert, which is provided by the Google team, has its limitations. It might be inaccurate, its answers may be hard to understand. And it shouldn't be used for cheating purposes. Moreover, Internet connection plays an important role, which can limit some students from access.*
