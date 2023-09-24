@@ -16,14 +16,19 @@
 
 ## Tutorial For Use And Best Practices
 ### 1. Provide Information
-#### $~~~~~~~~~~~$ a. Type In Or Paste In Your Passages
-#### $~~~~~~~~~~~$ b. Best Practices: 
+$~~~~~~~~~~~$ **a. Type In Or Paste In Your Passages****
+
+$~~~~~~~~~~~$ ****b. Best Practices:**** 
+
 $~~~~~~~~~~~~~~~~~~~~~~$ *Write them clearly, and grammatically correctly so the AI model can easily provide answers for you!*
 
 ### 2. Asking Questions And Waiting For The Response
-#### $~~~~~~~~~~~$ a. Write Down Your Questions And Hit Submit
-#### $~~~~~~~~~~~$ b. Wait And YouBot will answer your questions
-#### $~~~~~~~~~~~$ c. Best Practices: 
+$~~~~~~~~~~~$ **a. Write Down Your Questions And Hit Submit**
+
+$~~~~~~~~~~~$ **b. Wait And YouBot will answer your questions**
+
+$~~~~~~~~~~~$ **c. Best Practices:**
+
 $~~~~~~~~~~~~~~~~~~~~~~$ *Write questions one by one so that the bot can fully and correctly answer all of them*
 
 $~~~~~~~~~~~~~~~~~~~~~~$ *If it doesn't respond or its answers don't satisfy you, try re-write the question*
