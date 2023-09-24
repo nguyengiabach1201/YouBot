@@ -16,9 +16,9 @@
 
 ## Tutorial For Use And Best Practices
 ### 1. Provide Information
-$~~~~~~~~~~~$ **a. Type In Or Paste In Your Passages****
+$~~~~~~~~~~~$ **a. Type In Or Paste In Your Passages**
 
-$~~~~~~~~~~~$ ****b. Best Practices:**** 
+$~~~~~~~~~~~$ **b. Best Practices:**
 
 $~~~~~~~~~~~~~~~~~~~~~~$ *Write them clearly, and grammatically correctly so the AI model can easily provide answers for you!*
 
